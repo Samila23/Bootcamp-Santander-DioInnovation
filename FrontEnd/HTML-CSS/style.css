@@ -8,6 +8,15 @@ body{
 #title, .subtitle, .post_title {
     color: #505050 ;
 }
+#title{
+    font-size: 40px;
+    text-transform: uppercase
+}
+a{
+    text-decoration: line-through;
+    color: #505050;
+    text-transform: capitalize;
+}
 .post_title{
     font-size: 16;
     font-style: italic;
