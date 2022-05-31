@@ -37,3 +37,10 @@ a{
 .post_image{
     margin-bottom: 15px;
 }
+.contacs_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.contacs_list li a {
+    text-decoration: none;
+}
