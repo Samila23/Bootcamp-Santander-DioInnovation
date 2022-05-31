@@ -1,5 +1,8 @@
 body{
     background: #d4d2d2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
 }
 .photo{
     border-radius: 50%;
@@ -33,9 +36,11 @@ a{
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-align: justify;
 }
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
 }
 .contacs_list{
     list-style-type: none;
