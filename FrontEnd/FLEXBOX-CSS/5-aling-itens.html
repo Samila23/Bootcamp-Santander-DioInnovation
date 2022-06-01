@@ -36,6 +36,14 @@
         .column{
             flex-direction: column;
         }
+        .central{
+            height: 300px;
+            justify-content: center;
+        }
+        .central .item{
+            flex: 0;
+            padding: 20px;
+        }
     </style>
 </head>
 <body>
@@ -109,6 +117,11 @@
         <div class="item"><br>Item 01</div>
         <div class="item">Lorem ipsum dolor sit amet</div>
         <div class="item">item 03 mais algum texto, Lipsum</div>
+    </section>  
+
+    <h1>Alinhamento Central à tela</h1>
+    <section class="container central center">
+        <div class="item"><br>Item 01,Lorem ipsum dolor sit amet, item 03 mais algum texto, Lipsum </div>
     </section>  
 </body>
 </html>
