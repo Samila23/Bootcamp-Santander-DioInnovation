@@ -12,3 +12,4 @@
 <h4>Flex shrink</h4>
 <h4>Flex</h4>
 <h4>Order</h4>
+<h4>Aling Self</h4>
