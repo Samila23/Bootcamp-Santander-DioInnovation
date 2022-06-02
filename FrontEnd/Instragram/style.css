@@ -106,3 +106,26 @@ body{
     
     background-image: url('./img/googleplay-button.png');
 }
+
+@media(max-width:1024px){
+    .instragram-wrapper{
+        width: 90%;
+    }
+}
+@media(max-width:650px){
+    body{
+        background-color: #fff;
+    }
+    .grouo{
+        border: 1px solid transparent;
+    }
+    .instragram-wrapper{
+        width: 90%;
+    }
+    .instagram-phone{
+        display: none;
+    }
+    .instagram-continue{
+        width: 100%;
+    }
+}
