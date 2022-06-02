@@ -39,4 +39,27 @@ body{
 .group{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgray;
+}
+.group:nth-child(1){
+    min-height: 19rem;
+}
+.instagram-logo{
+    height: 3rem;
+}
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid;
+}
+.profile-photo img{
+    height: 10px;
 }
