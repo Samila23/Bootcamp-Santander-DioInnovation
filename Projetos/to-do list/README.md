@@ -1,6 +1,6 @@
-# To-do list
+<h1>Neste projeto, criamos uma simples lista de tarefas.</h1>
+<p></p>
 
-Neste projeto, iremos criar uma simples lista de tarefas.
 
 ## Instruções
 
