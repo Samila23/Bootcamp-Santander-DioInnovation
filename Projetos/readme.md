@@ -12,3 +12,6 @@
 <h3>Instragram</h3>
 <p>Tecnologias: Html e css</p>
 </div>
+<h3>Palindromo</h3>
+<p>Tecnologias: JavaScript</p>
+</div>
