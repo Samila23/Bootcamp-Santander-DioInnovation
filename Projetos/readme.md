@@ -18,3 +18,9 @@
 <p>Tecnologias: JavaScript</p>
 <h3>This</h3>
 <p>Tecnologias: JavaScript</p>
+<h3>Map</h3>
+<p>Tecnologias: JavaScript</p>
+<h3>Map Multiplicação</h3>
+<p>Tecnologias: JavaScript</p>
+<h3>Filter</h3>
+<p>Tecnologias: JavaScript</p>
