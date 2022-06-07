@@ -12,3 +12,5 @@
 <p>Tecnologias: JavaScript</p>
 <h3>Sintaxe-operadores</h3>
 <p>Tecnologias: JavaScript</p>
+<h3>To-Do-List</h3>
+<p>Tecnologias:  html, css e JavaScript</p>
