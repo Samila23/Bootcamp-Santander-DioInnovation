@@ -11,6 +11,7 @@ mySet.has(1);
 console.log(mySet);
 
 mySet.has(3);
+
 //false
 console.log(mySet);
 
