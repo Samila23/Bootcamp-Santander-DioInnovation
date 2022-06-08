@@ -7,3 +7,4 @@
 <p>Conceitos de This com aplicações de call, apply e bind </p>
 <p>Coleções Cahveadas : Map e Set</p>
 <p>Utilização dos metodos : Map , Filter e Reduce</p>
+<p>Tipos de erro : ECMAScript e DOMException</p>

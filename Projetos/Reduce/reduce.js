@@ -8,3 +8,8 @@ function somaNumeros (array) {
 const array = [1,2];
 
 console.log(somaNumeros(array));
+
+let array2 = [1, 2, 3, 4];
+
+array.reduce((current, acc) => current + acc);
+console.log(somaNumeros(array));
