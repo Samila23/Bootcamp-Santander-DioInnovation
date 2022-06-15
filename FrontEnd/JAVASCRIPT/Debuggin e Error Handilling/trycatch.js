@@ -11,4 +11,15 @@ function tryCatchExemplo(string){
         console.log(e);
     }
 }
+
+function tryCatchExemplo2(string){
+    try{
+        verificaPalindromo(string);
+    }
+    catch(e){
+        throw e;
+    }
+}
+
 console.log(tryCatchExemplo(''));
+console.log(tryCatchExemplo2(''));
